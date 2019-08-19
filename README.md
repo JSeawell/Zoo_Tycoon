@@ -1,5 +1,5 @@
 # Zoo Tycoon
-> ## CS-162 (Intro to CS II) Program
+> CS-162 (Intro to CS II) Program
 
 A Zoo-Tycoon type game, written in C++  
 
