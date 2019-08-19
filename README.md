@@ -8,7 +8,7 @@ A Zoo-Tycoon type game, written in C++
 > - You have $100,000 to run your zoo
 > - You can buy/feed/raise tigers, penguins, and/or turtles
 > - Your animals cost you money, but can also make you money
-> - Each day, a random event occurs that could hurt or harm your profits
+> - Each day, a random event occurs that could help or harm your profits
 > - Last as long as you can
 
 ## How to compile and run:
