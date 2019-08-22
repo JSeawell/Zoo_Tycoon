@@ -19,6 +19,7 @@ A Zoo-Tycoon type game, written in C++
 > 5. Follow the game set-up instructions, and begin
 
 ## Tech and/or concepts learned/used:
+> - C++
 > - OOP (Object oriented programming)
 > - Classes
 > - Abstract classes
