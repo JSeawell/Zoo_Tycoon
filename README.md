@@ -19,4 +19,11 @@ A Zoo-Tycoon type game, written in C++
 > 5. Follow the game set-up instructions, and begin
 
 ## Tech and/or concepts learned/used:
-> 1. 
+> - OOP (Object oriented programming)
+> - Classes
+> - Abstract classes
+> - Inheritance
+> - Private, protected, and public attributes
+> - Overloading operators
+> - Polymorphism
+> - Virtual functions
